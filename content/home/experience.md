@@ -1,8 +1,9 @@
 +++
 # Experience widget.
+# TODO: UPDATE THIS WITH EXPERIENCE & ENABLE
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false TODO: add this
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,11 +19,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Full Stack Engineer"
+  company = "FightPandemics"
+  company_url = "https://fightpandemics.com"
+  location = "Remote"
+  date_start = "2020-04-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +34,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Web Developer"
+  company = "Robinhood Technologies Inc."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """"""
 
 +++
