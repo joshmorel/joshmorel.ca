@@ -17,9 +17,9 @@ name = "Code"
 url = "https://github.com/fightpandemics/fightpandemics"
 +++
 
-Making full-stack contributions while co-leading development effects in remote collaboration with developers and non-technical specialistics across the globe.  
+Making full-stack contributions while co-leading development effects in remote collaboration with developers and non-technical specialistics across the globe.
 
 Key features contributed:
 
-* Geolocation for address completion & location-based sorting/matching (enabled through integration with Google Maps API)
-* Double-submit cookie for XSS/CSFR secure JWT authentication with offline logout 
+- Geolocation for address completion & location-based sorting/matching (enabled through integration with Google Maps API)
+- Secure persistent login via httpOnly JWT cookie with offline logout enabled via secondary cookie
