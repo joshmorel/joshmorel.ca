@@ -5,6 +5,12 @@ tags = ["Node.js", "React", "MongoDB", "Auth0"]
 date = "2020-06-01T00:00:00Z"
 
 [[links]]
+icon = "desktop"
+icon_pack = "fas"
+name = "App"
+url = "https://fightpandemics.com"
+
+[[links]]
 icon = "github-alt"
 icon_pack = "fab"
 name = "Code"

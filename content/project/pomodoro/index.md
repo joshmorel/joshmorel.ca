@@ -5,7 +5,7 @@ tags = ["HTML", "CSS", "Bootstrap", "JavaScript", "jQuery", "Canvas API"]
 date = "2019-04-14T00:00:00Z"
 
 [[links]]
-icon = "clock"
+icon = "desktop"
 icon_pack = "fas"
 name = "App"
 url = "https://pomodoro.refactored.ca"
